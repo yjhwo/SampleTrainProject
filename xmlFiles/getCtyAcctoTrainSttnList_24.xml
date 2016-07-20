@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- 광주광역시 -->
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<nodeid>NAT031747</nodeid>
+				<nodename>임곡</nodename>
+			</item>
+			<item>
+				<nodeid>NAT031812</nodeid>
+				<nodename>하남</nodename>
+			</item>
+			<item>
+				<nodeid>NAT031840</nodeid>
+				<nodename>북송정</nodename>
+			</item>
+			<item>
+				<nodeid>NAT031857</nodeid>
+				<nodename>광주송정</nodename>
+			</item>
+			<item>
+				<nodeid>NAT882904</nodeid>
+				<nodename>효천</nodename>
+			</item>
+			<item>
+				<nodeid>NAT882936</nodeid>
+				<nodename>서광주</nodename>
+			</item>
+			<item>
+				<nodeid>NAT882979</nodeid>
+				<nodename>동송정신호</nodename>
+			</item>
+			<item>
+				<nodeid>NAT883012</nodeid>
+				<nodename>광주</nodename>
+			</item>
+			<item>
+				<nodeid>NAT883086</nodeid>
+				<nodename>극락강</nodename>
+			</item>
+		</items>
+	</body>
+</response>

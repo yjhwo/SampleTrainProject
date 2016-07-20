@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<adultcharge>0</adultcharge>
+				<arrplacename>춘천</arrplacename>
+				<arrplandtime>20160628192200</arrplandtime>
+				<depplacename>왕십리</depplacename>
+				<depplandtime>20160628181300</depplandtime>
+				<traingradename>09</traingradename>
+			</item>
+			<item>
+				<adultcharge>0</adultcharge>
+				<arrplacename>춘천</arrplacename>
+				<arrplandtime>20160628202200</arrplandtime>
+				<depplacename>왕십리</depplacename>
+				<depplandtime>20160628191300</depplandtime>
+				<traingradename>09</traingradename>
+			</item>
+			<item>
+				<adultcharge>0</adultcharge>
+				<arrplacename>춘천</arrplacename>
+				<arrplandtime>20160628212200</arrplandtime>
+				<depplacename>왕십리</depplacename>
+				<depplandtime>20160628201300</depplandtime>
+				<traingradename>09</traingradename>
+			</item>
+		</items>
+		<numOfRows>999</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>3</totalCount>
+	</body>
+</response>

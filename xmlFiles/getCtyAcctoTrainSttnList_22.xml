@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- 대구광역시 -->
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<nodeid>NAT830031</nodeid>
+				<nodename>동촌</nodename>
+			</item>
+			<item>
+				<nodeid>NAT830043</nodeid>
+				<nodename>금강</nodename>
+			</item>
+			<item>
+				<nodeid>NAT830085</nodeid>
+				<nodename>반야월</nodename>
+			</item>
+			<item>
+				<nodeid>NAT013239</nodeid>
+				<nodename>대구</nodename>
+			</item>
+			<item>
+				<nodeid>NAT013271</nodeid>
+				<nodename>동대구</nodename>
+			</item>
+			<item>
+				<nodeid>NAT013327</nodeid>
+				<nodename>고모</nodename>
+			</item>
+			<item>
+				<nodeid>NAT013343</nodeid>
+				<nodename>가천</nodename>
+			</item>
+		</items>
+	</body>
+</response>
